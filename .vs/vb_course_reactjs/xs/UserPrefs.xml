@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0C57523E-95F2-4A03-87D2-AC30346129D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vb_course_reactjs/ClientApp/public/index.html">
+    <Files>
+      <File FileName="vb_course_reactjs/Startup.cs" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/Program.cs" Line="19" Column="30" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/Counter.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/App.test.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/NavMenu.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/Layout.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/Home.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/src/components/FetchData.js" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/public/manifest.json" Line="1" Column="1" />
+      <File FileName="vb_course_reactjs/ClientApp/public/index.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vb_course_reactjs" expanded="True">
+            <Node name="vb_course_reactjs" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True">
+                  <Node name="index.html" selected="True" />
+                </Node>
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="App.js" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vb__course__reactjs PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
